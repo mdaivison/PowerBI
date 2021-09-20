@@ -1,2 +1,4 @@
 # PowerBI
-Dashboards 
+Dashboards
+Desafio 01: https://app.powerbi.com/view?r=eyJrIjoiMDZmZjRkYjgtYmU2MS00MjFhLTkyNDUtODA2MjY3ZDc0ZWJhIiwidCI6IjZiY2M3YzdmLTI1ODItNGNhZC1hNTljLWVjM2IxODA1YTNkMiJ9
+Desafio 02: https://app.powerbi.com/view?r=eyJrIjoiZjAzYWY5YmMtZTdmNS00YmU4LWEzMjYtMzcwMDJmZTdhZjNmIiwidCI6IjZiY2M3YzdmLTI1ODItNGNhZC1hNTljLWVjM2IxODA1YTNkMiJ9&pageName=ReportSection
